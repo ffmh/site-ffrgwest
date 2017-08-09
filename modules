@@ -1,0 +1,10 @@
+GLUON_SITE_FEEDS="ssidchanger"
+PACKAGES_SSIDCHANGER_REPO=https://github.com/freifunk-nord/gluon-ssid-changer.git
+PACKAGES_SSIDCHANGER_COMMIT=cc16f488bd32f17da845279800e06f237884829e # <-- set the newest commit ID here
+PACKAGES_SSIDCHANGER_BRANCH=lede
+
+GLUON_SITE_FEEDS='ffrl ssidchanger'
+
+PACKAGES_FFRL_REPO='https://github.com/ffrl/ffrl-packages.git'
+PACKAGES_FFRL_COMMIT=ae3be0765e3bab7434aedeb0f8b8e0d8d0b41075
+PACKAGES_FFRL_BRANCH=v2017.1.x
