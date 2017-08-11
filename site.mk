@@ -7,10 +7,15 @@ GLUON_SITE_PACKAGES := \
         gluon-config-mode-core \
         gluon-config-mode-autoupdater \
         gluon-config-mode-hostname \
+	gluon-config-mode-mesh-vpn \
         gluon-config-mode-geo-location \
         gluon-config-mode-contact-info \
         gluon-ebtables-filter-multicast \
         gluon-ebtables-filter-ra-dhcp \
+	gluon-web-admin \
+	gluon-web-autoupdater \
+	gluon-web-network \
+	gluon-web-wifi-config \
         gluon-mesh-vpn-tunneldigger \
         gluon-radvd \
         gluon-status-page \
